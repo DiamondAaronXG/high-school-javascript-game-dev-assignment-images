@@ -296,7 +296,7 @@ as a webpage https://hpssjellis.github.io/high-school-javascript-game-dev-assign
 
 # Wow: A student found [pyScript](https://pyscript.net/examples/), 
 
-Pyscript  allows Python inside a webpage. Best way to learan is look at the examples and then right-click-view-webpage  https://pyscript.net/examples/
+Pyscript  allows Python inside a webpage. Best way to learn is look at the examples and then right-click-view-webpage  https://pyscript.net/examples/
 
 
 
