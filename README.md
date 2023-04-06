@@ -7,7 +7,7 @@ All the assignments for Game Dev as images
 https://www.w3schools.com/js/tryit.asp?filename=tryjs_editor
 
 
-https://codepen.io/pen/   click the "Strat Coding" button and put all the code into the html side
+https://codepen.io/pen/   click the "Start Coding" button and put all the code into the html side
 
 
 http://jsbin.com/?html,output
